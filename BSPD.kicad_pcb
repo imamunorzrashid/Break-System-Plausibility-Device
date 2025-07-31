@@ -10273,6 +10273,19 @@
 		(layer "Edge.Cuts")
 		(uuid "b03bb3a7-4701-4c5d-b558-3e8166cdc611")
 	)
+	(gr_text "BSPD\nMAMUN_DAQ"
+		(at 186.5 122 0)
+		(layer "B.Cu")
+		(uuid "f41a83b3-ee44-4ff1-a612-9473d1e4ad17")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(via
 		(at 220.19 101)
 		(size 0.8)
